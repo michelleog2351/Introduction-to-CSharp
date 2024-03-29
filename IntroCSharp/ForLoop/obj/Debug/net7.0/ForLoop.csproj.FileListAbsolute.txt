@@ -1,0 +1,14 @@
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\bin\Debug\net7.0\ForLoop.exe
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\bin\Debug\net7.0\ForLoop.deps.json
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\bin\Debug\net7.0\ForLoop.runtimeconfig.json
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\bin\Debug\net7.0\ForLoop.dll
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\bin\Debug\net7.0\ForLoop.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfo.cs
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.dll
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\refint\ForLoop.dll
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ForLoop.genruntimeconfig.cache
+C:\Users\L00176523\Desktop\IntroCSharp\ForLoop\obj\Debug\net7.0\ref\ForLoop.dll

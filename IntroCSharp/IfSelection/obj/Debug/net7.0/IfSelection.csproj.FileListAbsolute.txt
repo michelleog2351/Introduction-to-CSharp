@@ -1,0 +1,14 @@
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\bin\Debug\net7.0\IfSelection.exe
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\bin\Debug\net7.0\IfSelection.deps.json
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\bin\Debug\net7.0\IfSelection.runtimeconfig.json
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\bin\Debug\net7.0\IfSelection.dll
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\bin\Debug\net7.0\IfSelection.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.AssemblyInfoInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.AssemblyInfo.cs
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.csproj.CoreCompileInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.dll
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\refint\IfSelection.dll
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\IfSelection.genruntimeconfig.cache
+C:\Users\L00176523\Desktop\IntroCSharp\IfSelection\obj\Debug\net7.0\ref\IfSelection.dll

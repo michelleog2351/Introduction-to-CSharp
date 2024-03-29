@@ -1,0 +1,14 @@
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\bin\Debug\net7.0\SizeOf.exe
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\bin\Debug\net7.0\SizeOf.deps.json
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\bin\Debug\net7.0\SizeOf.runtimeconfig.json
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\bin\Debug\net7.0\SizeOf.dll
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\bin\Debug\net7.0\SizeOf.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.AssemblyInfoInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.AssemblyInfo.cs
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.csproj.CoreCompileInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.dll
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\refint\SizeOf.dll
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\SizeOf.genruntimeconfig.cache
+C:\Users\L00176523\Desktop\IntroCSharp\SizeOf\obj\Debug\net7.0\ref\SizeOf.dll

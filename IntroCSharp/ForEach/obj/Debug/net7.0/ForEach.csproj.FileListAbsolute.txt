@@ -1,0 +1,14 @@
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\bin\Debug\net7.0\ForEach.exe
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\bin\Debug\net7.0\ForEach.deps.json
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\bin\Debug\net7.0\ForEach.dll
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\bin\Debug\net7.0\ForEach.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.dll
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+C:\Users\L00176523\Desktop\IntroCSharp\ForEach\obj\Debug\net7.0\ref\ForEach.dll

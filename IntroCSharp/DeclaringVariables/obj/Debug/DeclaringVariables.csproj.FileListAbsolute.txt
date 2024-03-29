@@ -1,0 +1,7 @@
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.AssemblyReference.cache
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.CoreCompileInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

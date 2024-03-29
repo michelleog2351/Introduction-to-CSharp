@@ -1,0 +1,14 @@
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\bin\Debug\net7.0\SimpleSwitch.exe
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\bin\Debug\net7.0\SimpleSwitch.deps.json
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\bin\Debug\net7.0\SimpleSwitch.runtimeconfig.json
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\bin\Debug\net7.0\SimpleSwitch.dll
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\bin\Debug\net7.0\SimpleSwitch.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.AssemblyInfoInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.AssemblyInfo.cs
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.csproj.CoreCompileInputs.cache
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.dll
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\refint\SimpleSwitch.dll
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.pdb
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\SimpleSwitch.genruntimeconfig.cache
+C:\Users\L00176523\Desktop\IntroCSharp\SimpleSwitch\obj\Debug\net7.0\ref\SimpleSwitch.dll
