@@ -15,7 +15,7 @@ Console.WriteLine("5.\t Theaterwide Biotoxic and Chemical Warfare");
 Console.WriteLine("6.\t Global Thermonuclear War");
 
 // Ask the user for input
-Console.WriteLine("\n Please choose one: ");
+Console.Write("\n Please choose one: ");
 
 // Get the input
 int option = Convert.ToInt16(Console.ReadLine());

@@ -5,3 +5,10 @@ C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVar
 C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.CoreCompileInputs.cache
 C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.exe
 C:\Users\L00176523\Desktop\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.pdb
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.AssemblyReference.cache
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.CoreCompileInputs.cache
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+C:\Users\oguna\OneDrive\Desktop\Introduction-to-CSharp\IntroCSharp\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

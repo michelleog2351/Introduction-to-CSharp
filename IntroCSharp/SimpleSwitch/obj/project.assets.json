@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\L00176523\\.nuget\\packages\\": {}
+    "C:\\Users\\oguna\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L00176523\\Desktop\\IntroCSharp\\SimpleSwitch\\SimpleSwitch.csproj",
+      "projectUniqueName": "C:\\Users\\oguna\\OneDrive\\Desktop\\Introduction-to-CSharp\\IntroCSharp\\SimpleSwitch\\SimpleSwitch.csproj",
       "projectName": "SimpleSwitch",
-      "projectPath": "C:\\Users\\L00176523\\Desktop\\IntroCSharp\\SimpleSwitch\\SimpleSwitch.csproj",
-      "packagesPath": "C:\\Users\\L00176523\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L00176523\\Desktop\\IntroCSharp\\SimpleSwitch\\obj\\",
+      "projectPath": "C:\\Users\\oguna\\OneDrive\\Desktop\\Introduction-to-CSharp\\IntroCSharp\\SimpleSwitch\\SimpleSwitch.csproj",
+      "packagesPath": "C:\\Users\\oguna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oguna\\OneDrive\\Desktop\\Introduction-to-CSharp\\IntroCSharp\\SimpleSwitch\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\L00176523\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oguna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,12 +66,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

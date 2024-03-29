@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dLSgVVtsHEqii/SJhbSVyNh4GkYIkdCDFf1DnTEtGYuCNwZ+51v/c8tT/QoarToc6TFtHLn2m6/f6giVBcLUQA==",
+  "dgSpecHash": "kvdTK5BctjupkdvUpB74PxNwrl6R8DCzPEdL1RFWkGgps+H5CdA2NXJWKRo0m6dII3b0N/VeKuvIBt6zKqWbfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\L00176523\\Desktop\\IntroCSharp\\SizeOf\\SizeOf.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\oguna\\OneDrive\\Desktop\\Introduction-to-CSharp\\IntroCSharp\\SizeOf\\SizeOf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\oguna\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\oguna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\oguna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
